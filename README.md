@@ -35,3 +35,18 @@ These files are utilized to simulate real-time dam behavior and operational cond
   - Recommended crop types  
   - Suitable irrigation methods  
   - Calculated water requirements (in cubic meters)
+ 
+📚 Citation  
+If you use this dataset or refer to it in your research, please cite the following work:
+
+**Digital Twin of HydroPower Plant**,  
+1st Dr. Suhel S. Sayyed,  
+2nd Mr. Vinayak D. Mithare,  
+3rd Mrs. Ankita S. Chavan,  
+4th Mr. Shivam P. Chavan,  
+5th Mr. Yashraj S. Mohite,  
+Computer Science & Engineering,  
+Annasaheb Dange College of Engineering and Technology, Ashta, India.  
+
+*Forthcoming, 2025.*
+
