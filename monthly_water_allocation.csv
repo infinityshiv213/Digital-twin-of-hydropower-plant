@@ -1,0 +1,441 @@
+Month,Taluka,Allocated_Water_TMC,Recommended_Crops,Recommended_Irrigation,Water_Requirement_m³
+Aug,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Aug,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Aug,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Aug,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Aug,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Aug,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Aug,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Aug,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Aug,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Aug,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Aug,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Aug,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Aug,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Aug,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Aug,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Aug,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Aug,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Aug,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Aug,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Aug,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Aug,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Aug,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Aug,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Aug,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Aug,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Aug,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Aug,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Aug,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Aug,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Aug,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Aug,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Aug,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Aug,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Aug,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Aug,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Aug,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Aug,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Aug,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Aug,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Aug,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Sep,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Sep,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Sep,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Sep,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Sep,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Sep,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Sep,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Sep,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Sep,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Sep,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Sep,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Sep,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Sep,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Sep,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Sep,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Sep,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Sep,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Sep,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Sep,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Sep,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Sep,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Sep,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Sep,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Sep,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Sep,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Sep,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Sep,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Sep,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Sep,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Sep,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Sep,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Sep,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Sep,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Sep,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Sep,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Sep,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Sep,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Sep,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Sep,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Sep,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Oct,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Oct,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Oct,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Oct,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Oct,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Oct,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Oct,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Oct,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Oct,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Oct,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Oct,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Oct,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Oct,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Oct,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Oct,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Oct,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Oct,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Oct,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Oct,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Oct,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Oct,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Oct,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Oct,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Oct,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Oct,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Oct,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Oct,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Oct,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Oct,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Oct,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Oct,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Oct,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Oct,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Oct,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Oct,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Oct,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Oct,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Oct,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Oct,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Oct,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Nov,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Nov,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Nov,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Nov,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Nov,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Nov,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Nov,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Nov,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Nov,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Nov,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Nov,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Nov,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Nov,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Nov,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Nov,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Nov,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Nov,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Nov,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Nov,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Nov,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Nov,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Nov,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Nov,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Nov,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Nov,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Nov,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Nov,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Nov,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Nov,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Nov,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Nov,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Nov,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Nov,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Nov,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Nov,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Nov,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Nov,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Nov,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Nov,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Nov,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Dec,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Dec,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Dec,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Dec,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Dec,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Dec,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Dec,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Dec,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Dec,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Dec,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Dec,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Dec,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Dec,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Dec,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Dec,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Dec,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Dec,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Dec,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Dec,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Dec,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Dec,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Dec,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Dec,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Dec,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Dec,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Dec,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Dec,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Dec,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Dec,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Dec,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Dec,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Dec,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Dec,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Dec,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Dec,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Dec,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Dec,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Dec,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Dec,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Dec,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Jan,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Jan,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Jan,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Jan,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Jan,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Jan,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Jan,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Jan,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Jan,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Jan,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Jan,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Jan,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Jan,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Jan,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Jan,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Jan,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Jan,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Jan,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Jan,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Jan,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Jan,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Jan,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Jan,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Jan,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Jan,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Jan,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Jan,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Jan,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Jan,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Jan,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Jan,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Jan,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Jan,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Jan,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Jan,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Jan,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Jan,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Jan,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Jan,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Jan,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Feb,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Feb,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Feb,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Feb,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Feb,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Feb,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Feb,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Feb,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Feb,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Feb,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Feb,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Feb,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Feb,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Feb,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Feb,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Feb,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Feb,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Feb,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Feb,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Feb,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Feb,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Feb,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Feb,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Feb,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Feb,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Feb,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Feb,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Feb,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Feb,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Feb,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Feb,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Feb,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Feb,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Feb,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Feb,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Feb,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Feb,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Feb,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Feb,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Feb,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Mar,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Mar,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Mar,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Mar,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Mar,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Mar,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Mar,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Mar,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Mar,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Mar,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Mar,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Mar,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Mar,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Mar,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Mar,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Mar,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Mar,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Mar,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Mar,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Mar,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Mar,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Mar,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Mar,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Mar,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Mar,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Mar,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Mar,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Mar,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Mar,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Mar,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Mar,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Mar,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Mar,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Mar,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Mar,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Mar,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Mar,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Mar,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Mar,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Mar,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Apr,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Apr,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Apr,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Apr,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Apr,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Apr,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Apr,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Apr,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Apr,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Apr,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Apr,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Apr,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Apr,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Apr,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Apr,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Apr,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Apr,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Apr,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Apr,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Apr,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Apr,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Apr,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Apr,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Apr,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Apr,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Apr,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Apr,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Apr,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Apr,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Apr,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Apr,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Apr,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Apr,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Apr,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Apr,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Apr,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Apr,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Apr,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Apr,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Apr,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+May,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+May,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+May,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+May,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+May,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+May,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+May,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+May,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+May,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+May,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+May,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+May,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+May,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+May,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+May,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+May,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+May,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+May,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+May,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+May,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+May,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+May,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+May,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+May,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+May,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+May,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+May,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+May,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+May,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+May,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+May,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+May,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+May,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+May,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+May,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+May,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+May,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+May,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+May,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+May,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
+Jun,Atpadi,0.01,Adjusted crop (Jowar) for Atpadi based on availability,Optimized Irrigation,3100500
+Jun,Atpadi,0.01,Water-intensive crop (Sugarcane) for Atpadi,Flood Irrigation,14394000
+Jun,Atpadi,0.01,Adjusted crop (Groundnut) for Atpadi based on availability,Optimized Irrigation,9734400
+Jun,Atpadi,0.01,Adjusted crop (Pulses) for Atpadi based on availability,Optimized Irrigation,4011000
+Jun,Atpadi,0.01,Water-intensive crop (Rice) for Atpadi,Flood Irrigation,16142500
+Jun,Atpadi,0.01,Adjusted crop (Maize) for Atpadi based on availability,Optimized Irrigation,3705000
+Jun,Atpadi,0.01,Adjusted crop (Wheat) for Atpadi based on availability,Optimized Irrigation,16182400
+Jun,Atpadi,0.01,Adjusted crop (Bajra) for Atpadi based on availability,Optimized Irrigation,14057600
+Jun,Khanapur ,0.06,Adjusted crop (Jowar) for Khanapur  based on availability,Optimized Irrigation,16078500
+Jun,Khanapur ,0.06,Water-intensive crop (Sugarcane) for Khanapur ,Flood Irrigation,26058000
+Jun,Khanapur ,0.06,Adjusted crop (Groundnut) for Khanapur  based on availability,Optimized Irrigation,3172800
+Jun,Khanapur ,0.06,Adjusted crop (Pulses) for Khanapur  based on availability,Optimized Irrigation,13447000
+Jun,Khanapur ,0.06,Water-intensive crop (Rice) for Khanapur ,Flood Irrigation,9762500
+Jun,Shirol,0.01,Adjusted crop (Maize) for Shirol based on availability,Optimized Irrigation,4185000
+Jun,Shirol,0.01,Adjusted crop (Wheat) for Shirol based on availability,Optimized Irrigation,23363600
+Jun,Shirol,0.01,Adjusted crop (Bajra) for Shirol based on availability,Optimized Irrigation,4043400
+Jun,Tasgaon,0.04,Adjusted crop (Jowar) for Tasgaon based on availability,Optimized Irrigation,11371500
+Jun,Tasgaon,0.04,Water-intensive crop (Sugarcane) for Tasgaon,Flood Irrigation,5346000
+Jun,Tasgaon,0.04,Adjusted crop (Groundnut) for Tasgaon based on availability,Optimized Irrigation,23875200
+Jun,Tasgaon,0.04,Adjusted crop (Pulses) for Tasgaon based on availability,Optimized Irrigation,12596500
+Jun,Tasgaon,0.04,Water-intensive crop (Rice) for Tasgaon,Flood Irrigation,19822000
+Jun,Tasgaon,0.04,Adjusted crop (Maize) for Tasgaon based on availability,Optimized Irrigation,20725000
+Jun,Tasgaon,0.04,Adjusted crop (Wheat) for Tasgaon based on availability,Optimized Irrigation,16801200
+Jun,Tasgaon,0.04,Adjusted crop (Bajra) for Tasgaon based on availability,Optimized Irrigation,9522000
+Jun,Palus,0.02,Adjusted crop (Jowar) for Palus based on availability,Optimized Irrigation,4509000
+Jun,Palus,0.02,Water-intensive crop (Sugarcane) for Palus,Flood Irrigation,29928000
+Jun,Palus,0.02,Adjusted crop (Groundnut) for Palus based on availability,Optimized Irrigation,9523200
+Jun,Palus,0.02,Adjusted crop (Pulses) for Palus based on availability,Optimized Irrigation,3720500
+Jun,Shahuwadi,0.04,Water-intensive crop (Rice) for Shahuwadi,Flood Irrigation,12413500
+Jun,Shahuwadi,0.04,Adjusted crop (Maize) for Shahuwadi based on availability,Optimized Irrigation,10890000
+Jun,Shahuwadi,0.04,Adjusted crop (Wheat) for Shahuwadi based on availability,Optimized Irrigation,11554400
+Jun,Shahuwadi,0.04,Adjusted crop (Bajra) for Shahuwadi based on availability,Optimized Irrigation,14375000
+Jun,Panhala,0.07,Adjusted crop (Jowar) for Panhala based on availability,Optimized Irrigation,18571500
+Jun,Panhala,0.07,Water-intensive crop (Sugarcane) for Panhala,Flood Irrigation,12978000
+Jun,Panhala,0.07,Adjusted crop (Groundnut) for Panhala based on availability,Optimized Irrigation,18249600
+Jun,Hatkanangale,0.03,Adjusted crop (Pulses) for Hatkanangale based on availability,Optimized Irrigation,6321000
+Jun,Hatkanangale,0.03,Water-intensive crop (Rice) for Hatkanangale,Flood Irrigation,9801000
+Jun,Hatkanangale,0.03,Adjusted crop (Maize) for Hatkanangale based on availability,Optimized Irrigation,24565000
+Jun,Hatkanangale,0.03,Adjusted crop (Wheat) for Hatkanangale based on availability,Optimized Irrigation,6047600
+Jun,Hatkanangale,0.03,Adjusted crop (Bajra) for Hatkanangale based on availability,Optimized Irrigation,19517800
