@@ -25,6 +25,10 @@ The following CSV files are used in simulation, prediction, and decision-making 
   - Storage capacity  
   These files are utilized to simulate real-time dam behavior and operational conditions.
 
+- **water_schedule_2025.csv**
+- Include taluka wise data about agriculture , which major crops are grown,ETC
+- It is based on command area of chandoli dam, all talukas comes under chandoli dam.
+
 ### 📤 Generated Output
 
 - **monthly_water_allocation.csv**  
